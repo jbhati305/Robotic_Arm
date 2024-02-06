@@ -1,0 +1,38 @@
+[0.162s] Invoking command in '/home/jitesh/flipkart_ws/build/robotic_arm_description1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/jitesh/flipkart_ws/build/robotic_arm_description1 -- -j12 -l12
+[0.244s] Invoked command in '/home/jitesh/flipkart_ws/build/robotic_arm_description1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/jitesh/flipkart_ws/build/robotic_arm_description1 -- -j12 -l12
+[0.326s] Invoking command in '/home/jitesh/flipkart_ws/build/robotic_arm_description1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/jitesh/flipkart_ws/build/robotic_arm_description1
+[0.347s] -- Install configuration: ""
+[0.347s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes
+[0.347s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/gripper_1.stl
+[0.347s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/link5_1.stl
+[0.347s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/link2_1.stl
+[0.347s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/base_link.stl
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/link3_1.stl
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/link1_1.stl
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/meshes/link4_1.stl
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/urdf
+[0.348s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/urdf/robotic_arm1.urdf.xacro
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/urdf/robotic_arm1_gazebo.xacro
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/urdf/materials.xacro
+[0.348s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/urdf/robotic_arm1_ros2_control.xacro
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/launch
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/launch/display.launch.py
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/launch/gazebo.launch.py
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/rviz
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/rviz/display.rviz
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/ament_index/resource_index/package_run_dependencies/robotic_arm_description1
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/ament_index/resource_index/parent_prefix_path/robotic_arm_description1
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/environment/ament_prefix_path.sh
+[0.349s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/environment/ament_prefix_path.dsv
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/environment/path.sh
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/environment/path.dsv
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/local_setup.bash
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/local_setup.sh
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/local_setup.zsh
+[0.350s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/local_setup.dsv
+[0.350s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/package.dsv
+[0.351s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/ament_index/resource_index/packages/robotic_arm_description1
+[0.351s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/cmake/robotic_arm_description1Config.cmake
+[0.351s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/cmake/robotic_arm_description1Config-version.cmake
+[0.351s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_description1/share/robotic_arm_description1/package.xml
+[0.416s] Invoked command in '/home/jitesh/flipkart_ws/build/robotic_arm_description1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/jitesh/flipkart_ws/build/robotic_arm_description1

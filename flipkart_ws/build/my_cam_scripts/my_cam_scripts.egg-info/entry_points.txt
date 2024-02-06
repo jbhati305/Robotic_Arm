@@ -1,0 +1,8 @@
+[console_scripts]
+get_image = my_cam_scripts.get_image:main
+get_image_integrated = my_cam_scripts.get_image_integrated:main
+pub_image = my_cam_scripts.pub_image:main
+pub_image_try = my_cam_scripts.pub_image_try:main
+ros_to_arduino = my_cam_scripts.ros_to_arduino:main
+trial = my_cam_scripts.trial:main
+xyz_publisher = my_cam_scripts.xyz_publisher:main

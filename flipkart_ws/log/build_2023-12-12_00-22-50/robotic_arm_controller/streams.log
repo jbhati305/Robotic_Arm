@@ -1,0 +1,33 @@
+[0.408s] Invoking command in '/home/jitesh/flipkart_ws/build/robotic_arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/jitesh/flipkart_ws/build/robotic_arm_controller -- -j12 -l12
+[0.457s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.653s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.730s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.730s] -- Added test 'lint_cmake' to check CMake code style
+[0.730s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.731s] -- Added test 'xmllint' to check XML markup files
+[0.732s] -- Configuring done
+[0.737s] -- Generating done
+[0.738s] -- Build files have been written to: /home/jitesh/flipkart_ws/build/robotic_arm_controller
+[0.901s] Invoked command in '/home/jitesh/flipkart_ws/build/robotic_arm_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/jitesh/flipkart_ws/build/robotic_arm_controller -- -j12 -l12
+[0.976s] Invoking command in '/home/jitesh/flipkart_ws/build/robotic_arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/jitesh/flipkart_ws/build/robotic_arm_controller
+[0.992s] -- Install configuration: ""
+[0.992s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/launch
+[0.992s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/launch/controller.launch.py
+[0.992s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/config
+[0.993s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/config/robotic_arm_controllers.yaml
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/ament_index/resource_index/package_run_dependencies/robotic_arm_controller
+[0.993s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/ament_index/resource_index/parent_prefix_path/robotic_arm_controller
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/environment/ament_prefix_path.sh
+[0.993s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/environment/ament_prefix_path.dsv
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/environment/path.sh
+[0.993s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/environment/path.dsv
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/local_setup.bash
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/local_setup.sh
+[0.993s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/local_setup.zsh
+[0.993s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/local_setup.dsv
+[0.994s] -- Installing: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/package.dsv
+[0.994s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/ament_index/resource_index/packages/robotic_arm_controller
+[0.994s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/cmake/robotic_arm_controllerConfig.cmake
+[0.994s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/cmake/robotic_arm_controllerConfig-version.cmake
+[0.994s] -- Up-to-date: /home/jitesh/flipkart_ws/install/robotic_arm_controller/share/robotic_arm_controller/package.xml
+[0.995s] Invoked command in '/home/jitesh/flipkart_ws/build/robotic_arm_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jitesh/ws_moveit2/install/moveit_configs_utils:/home/jitesh/ws_moveit2/install/launch_param_builder:/home/jitesh/bookros2_ws/install/launch_pal:/home/jitesh/bookros2_ws/install/br2_fsm_bumpgo_py:/home/jitesh/roboarm_ws/install/my_robot_arm:/home/jitesh/ros2_ws/install/urdf_tutorial:/home/jitesh/ros2_ws/install/py_srvcli:/home/jitesh/ros2_ws/install/py_pubsub:/home/jitesh/ros2_ws/install/my_robot_controller:/home/jitesh/ros2_ws/install/cpp_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/jitesh/flipkart_ws/build/robotic_arm_controller

@@ -1,0 +1,61 @@
+running egg_info
+creating ../../build/my_cam_scripts/my_cam_scripts.egg-info
+writing ../../build/my_cam_scripts/my_cam_scripts.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_cam_scripts/my_cam_scripts.egg-info/dependency_links.txt
+writing entry points to ../../build/my_cam_scripts/my_cam_scripts.egg-info/entry_points.txt
+writing requirements to ../../build/my_cam_scripts/my_cam_scripts.egg-info/requires.txt
+writing top-level names to ../../build/my_cam_scripts/my_cam_scripts.egg-info/top_level.txt
+writing manifest file '../../build/my_cam_scripts/my_cam_scripts.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_cam_scripts/my_cam_scripts.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_cam_scripts/my_cam_scripts.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jitesh/flipkart_ws/build/my_cam_scripts/build
+creating /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib
+creating /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/trial.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/get_image.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/pub_image.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/pub_image_try.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/realsense_depth.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/temp.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/ros_to_arduino.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/get_image_integrated.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+copying my_cam_scripts/__init__.py -> /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts
+running install
+running install_lib
+creating /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/trial.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/get_image.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/pub_image.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/pub_image_try.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/realsense_depth.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/temp.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/ros_to_arduino.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/get_image_integrated.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+copying /home/jitesh/flipkart_ws/build/my_cam_scripts/build/lib/my_cam_scripts/__init__.py -> /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/trial.py to trial.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/get_image.py to get_image.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/pub_image.py to pub_image.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/pub_image_try.py to pub_image_try.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/realsense_depth.py to realsense_depth.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/temp.py to temp.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/ros_to_arduino.py to ros_to_arduino.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/get_image_integrated.py to get_image_integrated.cpython-310.pyc
+byte-compiling /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jitesh/flipkart_ws/install/my_cam_scripts/share/ament_index
+creating /home/jitesh/flipkart_ws/install/my_cam_scripts/share/ament_index/resource_index
+creating /home/jitesh/flipkart_ws/install/my_cam_scripts/share/ament_index/resource_index/packages
+copying resource/my_cam_scripts -> /home/jitesh/flipkart_ws/install/my_cam_scripts/share/ament_index/resource_index/packages
+copying package.xml -> /home/jitesh/flipkart_ws/install/my_cam_scripts/share/my_cam_scripts
+running install_egg_info
+Copying ../../build/my_cam_scripts/my_cam_scripts.egg-info to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/python3.10/site-packages/my_cam_scripts-0.0.0-py3.10.egg-info
+running install_scripts
+Installing get_image script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+Installing get_image_integrated script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+Installing pub_image script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+Installing pub_image_try script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+Installing ros_to_arduino script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+Installing trial script to /home/jitesh/flipkart_ws/install/my_cam_scripts/lib/my_cam_scripts
+writing list of installed files to '/home/jitesh/flipkart_ws/build/my_cam_scripts/install.log'

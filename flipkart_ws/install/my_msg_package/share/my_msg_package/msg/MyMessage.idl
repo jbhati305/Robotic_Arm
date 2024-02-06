@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from my_msg_package/msg/MyMessage.msg
+// generated code does not contain a copyright notice
+
+
+module my_msg_package {
+  module msg {
+    @verbatim (language="comment", text=
+      "MyMessage.msg")
+    struct MyMessage {
+      int32 data;
+    };
+  };
+};

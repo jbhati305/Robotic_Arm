@@ -1,0 +1,37 @@
+[2.595s] Invoking command in '/home/jitesh/flipkart_ws/src/yolov8_ros/yolov8_ros': PYTHONPATH=/home/jitesh/flipkart_ws/build/yolov8_ros/prefix_override:/home/jitesh/flipkart_ws/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/yolov8_ros build --build-base /home/jitesh/flipkart_ws/build/yolov8_ros/build install --record /home/jitesh/flipkart_ws/build/yolov8_ros/install.log --single-version-externally-managed
+[2.847s] running egg_info
+[2.865s] writing ../../../build/yolov8_ros/yolov8_ros.egg-info/PKG-INFO
+[2.866s] writing dependency_links to ../../../build/yolov8_ros/yolov8_ros.egg-info/dependency_links.txt
+[2.866s] writing entry points to ../../../build/yolov8_ros/yolov8_ros.egg-info/entry_points.txt
+[2.866s] writing requirements to ../../../build/yolov8_ros/yolov8_ros.egg-info/requires.txt
+[2.866s] writing top-level names to ../../../build/yolov8_ros/yolov8_ros.egg-info/top_level.txt
+[3.017s] reading manifest file '../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[3.018s] writing manifest file '../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[3.018s] running build
+[3.018s] running build_py
+[3.019s] running install
+[3.019s] /home/jitesh/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.019s] !!
+[3.020s] 
+[3.020s]         ********************************************************************************
+[3.020s]         Please avoid running ``setup.py`` directly.
+[3.020s]         Instead, use pypa/build, pypa/installer or other
+[3.020s]         standards-based tools.
+[3.020s] 
+[3.020s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.020s]         ********************************************************************************
+[3.020s] 
+[3.020s] !!
+[3.020s]   self.initialize_options()
+[3.025s] running install_lib
+[3.045s] running install_data
+[3.062s] running install_egg_info
+[3.081s] removing '/home/jitesh/flipkart_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[3.082s] Copying ../../../build/yolov8_ros/yolov8_ros.egg-info to /home/jitesh/flipkart_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info
+[3.083s] running install_scripts
+[3.139s] Installing debug_node script to /home/jitesh/flipkart_ws/install/yolov8_ros/lib/yolov8_ros
+[3.139s] Installing detect_3d_node script to /home/jitesh/flipkart_ws/install/yolov8_ros/lib/yolov8_ros
+[3.139s] Installing tracking_node script to /home/jitesh/flipkart_ws/install/yolov8_ros/lib/yolov8_ros
+[3.139s] Installing yolov8_node script to /home/jitesh/flipkart_ws/install/yolov8_ros/lib/yolov8_ros
+[3.140s] writing list of installed files to '/home/jitesh/flipkart_ws/build/yolov8_ros/install.log'
+[3.288s] Invoked command in '/home/jitesh/flipkart_ws/src/yolov8_ros/yolov8_ros' returned '0': PYTHONPATH=/home/jitesh/flipkart_ws/build/yolov8_ros/prefix_override:/home/jitesh/flipkart_ws/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/yolov8_ros build --build-base /home/jitesh/flipkart_ws/build/yolov8_ros/build install --record /home/jitesh/flipkart_ws/build/yolov8_ros/install.log --single-version-externally-managed
